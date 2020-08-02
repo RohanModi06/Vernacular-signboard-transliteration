@@ -6,15 +6,18 @@ In this project, we have built models for text detection, text recognition and t
 ### Dataset: 
 
 Text detection:
-train data - https://drive.google.com/file/d/1E5kI8CLoC-XffqQMTWwSpBIPp1Wb2tne/view?usp=sharing 
+train data - https://drive.google.com/file/d/1E5kI8CLoC-XffqQMTWwSpBIPp1Wb2tne/view?usp=sharing
+
 test data - https://drive.google.com/file/d/1C0-mc0WAIdssS5KJwOjghaWaqiImZZUr/view?usp=sharing
 
 Text recognition:
 train data - https://drive.google.com/file/d/1E5kI8CLoC-XffqQMTWwSpBIPp1Wb2tne/view?usp=sharing
+
 test data - https://drive.google.com/open?id=1C0-mc0WAIdssS5KJwOjghaWaqiImZZUrg
 
 Transliteration:
 train data - https://drive.google.com/file/d/1eha4iSfIK41Im9Kacd32l3c0ZxxJjClX/view?usp=sharing
+
 test data - https://drive.google.com/file/d/1h1bnxUksOgasexvz3IFdIWZbwPPklIOq/view?usp=sharing
 
 
